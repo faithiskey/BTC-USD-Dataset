@@ -1,4 +1,5 @@
-Project Description
+**Project Description**
+
 This project performs a time-series analysis of Bitcoin (BTC) market data using Python. It explores key historical patterns and trends in the cryptocurrency market, focusing on supervised and unsupervised techniques to derive meaningful insights from the data.
 
 Dataset
